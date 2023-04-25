@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * f_size - Calculates the size to cast the arg
+ * get_size - Calculates the size to cast the arg
  * @format: Formatted string in which to print the arg
  * @i: List of arguments to be printed.
  *
